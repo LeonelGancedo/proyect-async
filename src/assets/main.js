@@ -1,3 +1,4 @@
+console.log("Hola");
 // API
 const APIKEY = '?api_key=sDzcmPCllOQJdhFg1x68MUeiIqbI1XI6hJ28AXXP';
 const API = 'https://api.nasa.gov/planetary/apod';
